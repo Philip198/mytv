@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tvbFn85
+https://raw.githubusercontent.com/Philip198/mytv/master/us_samsung%2Cedited.m3u
 #EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p)
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us" status="online",Degrassi The Next Generation (720p)
