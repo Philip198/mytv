@@ -1,0 +1,96 @@
+#EXTINF:-1,The Pet Collective (720p)
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Degrassi The Next Generation (720p)
+https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION Plus
+https://ion-plus.samsung.wurl.com/playlist.m3u8
+#EXTINF:-1,Ion Plus (1080p)
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us" status="online",Midnight Pulp (720p)
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" status="online",MovieSphere (1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" status="online",MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" status="online",Young Hollywood (720p)
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" status="online",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p) gotv cc
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,HSN cc
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us" status="online",QVC (720p)
+https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (1080p)
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="blocked",Gusto TV (720p) cc
+https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" status="online",Outside TV (720p) cc
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" status="online",MyTime movie network (1080p)
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Dark Matter TV (720p)
+https://dmtv-viziosc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" status="online",Mystery Science Theater 3000 (1080p)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX News Now (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (720p)
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (720p)
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" status="online",The Carol Burnett Show (1080p)
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us" status="online",The First (720p)
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" status="online",VENN (1080p)
+https://venntv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" status="online",Xplore (1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" status="online",Young Hollywood (720p)
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" status="online",Tastemade Travel (720p) cc
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" status="online",Tastemade (1080p)
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" status="timeout",Latido Music (720p)
+https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Undefined",AFV Family
+http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us" status="online",AFV (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" status="online",Brat TV (1080p)
+https://brat-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloodyDisgusting.us" status="online",Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Crackle.us" status="online",Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" status="online",MovieSphere (1080p)
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p) cc
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (1080p)
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" status="online",Buzzr (1080p) cc
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us" status="online",HappyKids (1080p)
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" status="online",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us" status="online",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" status="online",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" status="online",Fox Soul (1080p) [Not 24/7] cc1st
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HauntTV.us" status="online",Haunt TV (1080p)
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" status="online",Xplore (1080p)
+https://xplore-roku.amagi.tv/playlist.m3u8
