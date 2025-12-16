@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us",News 12 New York (1080p)
+https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
+#EXTINF:-1 tvg-id="",NBC New York News tonkiang.us cc
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8&serverSideAds=false
+#EXTINF:-1 tvg-id="",NBC New York News
+https://list.iptvcat.com/my_list/s/4f10a9e1ad3e8c5a3d7ee39e55299f12.m3u8
+#EXTINF:-1 tvg-id="WABCDT1247News.us",ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us",FOX 5 New York NY (WNYW) (720p)
+https://livetv-fa.tubi.video/wnyw/index.m3u8
+#EXTINF:-1 tvg-id="WNBCDT1.us",NBC 4 New York NY (WNBC) [Geo-blocked]
+https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TVB 翡翠臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="綜合",[BD]tvb翡翠台@@1
+https://epg.pw/stream/af0079cc64cb1c7e0c7021a67a8a3835e3ce2cd9b86161b0af693bb122c3c434.m3u8
