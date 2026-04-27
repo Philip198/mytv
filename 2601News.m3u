@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/c964d2b8-4f3c-4416-b0d6-fffbc83e5b35:MRN2/variant/5266efc412c05530c22cd72c56614282/bandwidth/1461077.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
 https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/1d1787cc-75d7-4606-a0aa-18233eb58357:CBF2/master.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us",News 12 New York (1080p)
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
